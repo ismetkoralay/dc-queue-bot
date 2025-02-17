@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+passlib
+pytest
+httpx
+pytest-asyncio
+aiofiles
+fastapi[standard]
